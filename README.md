@@ -1,4 +1,4 @@
-# Egypt Real Estate Market Analysis
+# Egypt Real Estate Market Analytics
 
 An interactive Power BI dashboard analyzing **19,377 real estate listings across 16 regions in Egypt**, covering pricing, price per sqm, down payments, and listing supply.
 
